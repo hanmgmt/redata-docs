@@ -81,7 +81,7 @@ features, hotfixes, and releases; however, we later moved away from that
 model and now use a GitHub flow workflow where all changes are merged into
 the ``main``/``master`` branch after review and testing.
 
-Pushing to remote branch
+Pushing to a remote branch
 ------------------------
 After updating files, we can push the changes to remote branch. It is important to push to a branch (not ``main``) so that a team member can review the changes over a pull request.
 use the following ``git`` commands:
