@@ -87,6 +87,7 @@ After updating files, we can push the changes to remote branch. It is important 
 use the following ``git`` commands:
 
 ::
+
     $ git add .
     $ git commit -m "<message>"
     $ git branch
