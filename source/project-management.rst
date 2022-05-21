@@ -90,8 +90,8 @@ use the following ``git`` commands:
 
    $ git add .
    $ git commit -m "<message>"
-   $ git branch
-   $ git push origin <branchname>
+   $ git branch                    # list all the branches and * is the current branch
+   $ git push origin <branchname>  # push to a remote branch
 
 Versioning and tagging
 ----------------------
