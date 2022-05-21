@@ -88,10 +88,10 @@ use the following ``git`` commands:
 
 ::
 
-    $ git add .
-    $ git commit -m "<message>"
-    $ git branch
-    $ git push origin <branchname>
+   $ git add .
+   $ git commit -m "<message>"
+   $ git branch
+   $ git push origin <branchname>
 
 Versioning and tagging
 ----------------------
